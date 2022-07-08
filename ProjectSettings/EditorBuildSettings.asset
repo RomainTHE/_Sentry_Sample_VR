@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VR_Sentry_Test.unity
+    guid: 277c5cc3658fa4145ba71787a30a92af
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7d29005b6a6f28447b90c0e333870fa7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8261a867c4dc8a94daa6a6e721b22231, type: 2}
